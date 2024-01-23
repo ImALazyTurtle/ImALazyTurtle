@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ImALazyTurtle
+- 👋 Hi, I’m @ImALazyTurtle or simply Turtle
 - 👀 I’m interested in drawing silly thing and coding silly sites
 - 🌱 I’m currently learning HTML/CSS
 - 📫 How to reach me is currently unknown
